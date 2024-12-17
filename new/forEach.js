@@ -6,5 +6,5 @@ number.forEach((value)=>{
 });
 
 number.forEach((value,index)=>{
-    console.log("Index :"+index+hyu"Value :"+value);
+    console.log("Index :"+index+"Value :"+value);
 });
